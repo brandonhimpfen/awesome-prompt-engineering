@@ -45,6 +45,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 ## Prompt Engineering Tools
 
 - **[LangChain](https://www.langchain.com/)** – Framework for developing applications using LLMs with advanced prompt orchestration.
+- **[Prompter](https://github.com/whonixnetworks/prompter)** – Terminal-based multi-model prompt comparison and evaluation for Ollama. Side-by-side streaming, debate modes, self-review loops, and benchmarking.
 - **[PromptLayer](https://www.promptlayer.com/)** – Prompt management and version control for LLM prompts.
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
