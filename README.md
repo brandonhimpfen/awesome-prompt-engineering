@@ -67,6 +67,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[AgentGPT](https://agentgpt.reworkd.ai/)** – Autonomous AI agents with prompt-driven tasks.
 - **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental AI agent using GPT and prompt chains.
 - **[ChatGPT Plugins](https://platform.openai.com/docs/plugins/getting-started/)** – Extend LLM functionality through plugin-based prompting.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** – Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity and reputation before executing x402 micropayments. Free config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Related Awesome Lists
 
