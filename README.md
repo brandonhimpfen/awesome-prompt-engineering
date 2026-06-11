@@ -50,6 +50,8 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
 - **[flompt](https://github.com/Nyrok/flompt)** – Open source visual prompt builder that decomposes prompts into semantic blocks and compiles them into structured formats.
 
+- **[Ariadne Loop](https://github.com/zhangzeyu99-web/ariadne-loop)** - Local-first tool for turning prompt-driven AI coding loops into verifier gates, rollback rules, handoff packets, and JSON reports.
+
 ## Research & Papers
 
 - **["Language Models are Few-Shot Learners" (GPT-3)](https://arxiv.org/abs/2005.14165)** – Seminal paper introducing GPT-3 and few-shot prompting.
