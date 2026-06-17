@@ -50,6 +50,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
 - **[flompt](https://github.com/Nyrok/flompt)** – Open source visual prompt builder that decomposes prompts into semantic blocks and compiles them into structured formats.
+- **[XHS Publish Pack Generator](https://ronnie2025.github.io/xhs-publish-pack-generator/)** – Free browser-side tool that turns Xiaohongshu/Rednote source notes into title candidates, body drafts, carousel structures, image prompts, and publishing checklists.
 
 ## Research & Papers
 
