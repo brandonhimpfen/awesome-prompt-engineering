@@ -42,6 +42,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[PromptBase](https://promptbase.com/)** – Marketplace to buy and sell AI prompts.
 - **[FlowGPT](https://flowgpt.com/)** – Community-curated prompt sharing and discovery platform.
 - **[PromptHero](https://prompthero.com/)** – Prompt library focused on generative art and image models.
+- **[Presentation Design Prompts](https://github.com/SlideSpeak/presentation-design-prompts)** – 56 open-source slide-design prompts for ChatGPT and Claude, each a full deck theme with a pinned color palette, fonts, and layout rules.
 
 ## Prompt Engineering Tools
 
