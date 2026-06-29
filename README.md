@@ -49,3 +49,40 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[LangChain](https://www.langchain.com/)** – Framework for developing applications using LLMs with advanced prompt orchestration.
 - **[PromptLayer](https://www.promptlayer.com/)** – Prompt management and version control for LLM prompts.
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
+- **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
+- **[flompt](https://github.com/Nyrok/flompt)** – Open source visual prompt builder that decomposes prompts into semantic blocks and compiles them into structured formats.
+
+## Research & Papers
+
+- **["Language Models are Few-Shot Learners" (GPT-3)](https://arxiv.org/abs/2005.14165)** – Seminal paper introducing GPT-3 and few-shot prompting.
+- **["Prompt Programming for Large Language Models" (2021)](https://arxiv.org/abs/2102.07350)** – Discusses patterns and techniques in prompt engineering.
+- **[Awesome LLM Papers](https://github.com/Hannibal046/Awesome-LLM)** – Curated academic papers on large language models and prompting.
+
+## Communities & Blogs
+
+- **[r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)** – Subreddit for local LLM development and prompting.
+- **[Prompt Engineering Daily](https://promptengineeringdaily.com/)** – Newsletter with tips and prompt ideas.
+- **[Hugging Face Forum](https://discuss.huggingface.co/)** – Discussion and sharing around model fine-tuning and prompts.
+
+## Applications & Use Cases
+
+- **[AgentGPT](https://agentgpt.reworkd.ai/)** – Autonomous AI agents with prompt-driven tasks.
+- **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental AI agent using GPT and prompt chains.
+- **[ChatGPT Plugins](https://platform.openai.com/docs/plugins/getting-started/)** – Extend LLM functionality through plugin-based prompting.
+
+## Related Awesome Lists
+
+- **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt)**
+- **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)**
+- **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai)**
+- **[Awesome LangChain](https://github.com/awesomelistsio/awesome-langchain)**
+
+## Contribute
+
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
