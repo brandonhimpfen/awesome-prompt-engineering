@@ -56,6 +56,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **["Language Models are Few-Shot Learners" (GPT-3)](https://arxiv.org/abs/2005.14165)** – Seminal paper introducing GPT-3 and few-shot prompting.
 - **["Prompt Programming for Large Language Models" (2021)](https://arxiv.org/abs/2102.07350)** – Discusses patterns and techniques in prompt engineering.
 - **[Awesome LLM Papers](https://github.com/Hannibal046/Awesome-LLM)** – Curated academic papers on large language models and prompting.
+- **[PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878)** – Tests whether LLMs can write correct orchestration prompts for multi-agent systems. 110 scenarios, 10 topologies, 33 models averaging 17.2% pass rate.
 
 ## Communities & Blogs
 
