@@ -50,6 +50,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
 - **[flompt](https://github.com/Nyrok/flompt)** – Open source visual prompt builder that decomposes prompts into semantic blocks and compiles them into structured formats.
+- **[PromptAI 360](https://www.promptai360.com/)** – One-click prompt enhancer that restructures rough prompts into structured ones; Chrome extension for ChatGPT, Claude, and Gemini plus a macOS hotkey app for Claude Code and Cursor.
 
 ## Research & Papers
 
