@@ -35,6 +35,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[LangChain Prompt Templates](https://docs.langchain.com/docs/components/prompts/prompt-templates/)** – How to design reusable prompt templates in LangChain.
 - **[FreeCodeCamp – Prompt Engineering Tutorial](https://www.youtube.com/watch?v=qw1uPj9qy3g)** – Hands-on tutorial with examples.
 - **[Prompt Engineering Techniques](https://github.com/NirDiamant/Prompt_Engineering)** – 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamentals to advanced LLM strategies.
+- **[Zero to AI-Native](https://www.zerotoainative.xyz/)** – Open-source curriculum with a dedicated prompting module, sequenced from fundamentals through production AI and safety, sourced entirely from primary labs and authors.
 
 ## Prompt Libraries
 
