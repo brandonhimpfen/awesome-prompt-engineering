@@ -68,7 +68,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 
 - **[AgentGPT](https://agentgpt.reworkd.ai/)** – Autonomous AI agents with prompt-driven tasks.
 - **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental AI agent using GPT and prompt chains.
-- **[ChatGPT Plugins](https://platform.openai.com/docs/plugins/getting-started/)** – Extend LLM functionality through plugin-based prompting.
+- **[ChatGPT Plugins](https://platform.openai.com/docs/plugins/getting-started/) (deprecated by OpenAI — docs removed)** – Extend LLM functionality through plugin-based prompting. Where it's headed: [GPT-6 doesn't answer questions anymore — it builds you tools](https://calder-brief.pages.dev/gpt-6-intelligent-ui.html).
 
 ## Related Awesome Lists
 
