@@ -40,6 +40,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 ## Prompt Libraries
 
 - **[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)** – A collection of useful and creative prompts for ChatGPT.
+- **[Awesome AI Prompts](https://github.com/shauryagangrade/awesome-ai-prompts)** – Verification-first prompt library for AI coding agents (Claude, Cursor, Copilot, opencode), with 144 copy-paste workflows for review, testing, and refactoring.
 - **[PromptBase](https://promptbase.com/)** – Marketplace to buy and sell AI prompts.
 - **[FlowGPT](https://flowgpt.com/)** – Community-curated prompt sharing and discovery platform.
 - **[PromptHero](https://prompthero.com/)** – Prompt library focused on generative art and image models.
