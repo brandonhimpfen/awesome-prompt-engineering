@@ -39,6 +39,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 
 ## Prompt Libraries
 
+- **[AgentKit Co Free Prompts](https://github.com/agentkitco/free-prompts)** – 41 free CC BY prompts for coding, game design, RPGs, and agents.
 - **[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)** – A collection of useful and creative prompts for ChatGPT.
 - **[Awesome AI Prompts](https://github.com/shauryagangrade/awesome-ai-prompts)** – Verification-first prompt library for AI coding agents (Claude, Cursor, Copilot, opencode), with 144 copy-paste workflows for review, testing, and refactoring.
 - **[PromptBase](https://promptbase.com/)** – Marketplace to buy and sell AI prompts.
