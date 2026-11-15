@@ -70,6 +70,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[AgentGPT](https://agentgpt.reworkd.ai/)** – Autonomous AI agents with prompt-driven tasks.
 - **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental AI agent using GPT and prompt chains.
 - **[ChatGPT Plugins](https://help.openai.com/en/articles/20001256-plugins-in-chatgpt)** – Extend LLM functionality through plugin-based prompting.
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** – Remote MCP server for AI assistants to search 26,000+ US live-music venues by capacity, genre, state, and booking contacts.
 
 ## Related Awesome Lists
 
