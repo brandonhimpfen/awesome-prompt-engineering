@@ -44,6 +44,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[PromptBase](https://promptbase.com/)** – Marketplace to buy and sell AI prompts.
 - **[FlowGPT](https://flowgpt.com/)** – Community-curated prompt sharing and discovery platform.
 - **[PromptHero](https://prompthero.com/)** – Prompt library focused on generative art and image models.
+- **[Twistavo GPT Image 2.6 prompts](https://twistavo.com/prompts/gpt-image-2-6)** – Five GPT Image 2.6 prompts tested on November 5, 2026 (movie poster, product label, infographic, transparent sticker, pixel-art GIF), each shown with its exact settings and output.
 
 ## Prompt Engineering Tools
 
